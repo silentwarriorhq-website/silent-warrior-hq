@@ -25,6 +25,7 @@ export default function RootLayout({
               <Link href="/about">About</Link>
               <Link href="/advocacy">Advocacy</Link>
               <Link href="/intelligence">Intelligence</Link>
+              <Link href="/agencies">Agencies</Link>
             </div>
           </nav>
         </header>
